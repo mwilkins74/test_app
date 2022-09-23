@@ -22,5 +22,5 @@ Things you may want to cover:
 - Deployment instructions
 
 - ...
-
-Complete Ruby on Rails Developer
+First Test repo
+Complete Ruby on Rails Developer by Mark
